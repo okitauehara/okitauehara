@@ -8,9 +8,9 @@
 ## About me
 
 - 👋 My name is Marcos, I'm 25 yo.
-- ✍ You can find my projects [here](https://github.com/okitauehara?tab=repositories)
+- ✍ You can find my projects [here](https://github.com/okitauehara?tab=repositories).
 - 🎓 I'm currently being trained by [Driven Education](https://www.driven.com.br/) to be a Fullstack developer.
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him.
 - 🎉 Fun Fact: I like to learn new musical instruments by myself.
 
 ## Technologies that i'm studying
